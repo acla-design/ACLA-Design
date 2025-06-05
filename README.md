@@ -1,4 +1,4 @@
-# ACLA-Design
+# ACLA Design
 Sou Alexandre Lopes de Almeida, designer especializado em UI e UX, com sólida experiência em Figma, design systems e desenvolvimento front-end, combinando precisão técnica com visão criativa para gerar soluções digitais de alto impacto.
 
 Sou apaixonado por criar experiências que não sejam apenas bonitas, mas também intuitivas, escaláveis ​e alinhadas aos objetivos do negócio, destacando:
